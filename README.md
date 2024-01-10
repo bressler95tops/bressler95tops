@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am a Digital Content Creator, Github Wizard, and Web Developer.  Here are my accomplishments:
+
 ![Static Badge](https://img.shields.io/badge/Open_Science_101-Badged-blue)
